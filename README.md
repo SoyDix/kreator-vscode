@@ -11,7 +11,7 @@ Kreator is built on top of the VS Code open-source codebase (`Code - OSS`) and m
 ## Installation
 
 ```bash
-https://github.com/SoyDix/kreator-vscode
+git clone https://github.com/SoyDix/kreator-vscode
 cd kreator
 ```
 
